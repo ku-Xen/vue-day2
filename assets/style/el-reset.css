@@ -1,0 +1,33 @@
+/* .home 是加个限制 防止影响到其他的 */
+/* .home .el-carousel{
+    width: 300px;
+  } */
+/*登录页 输入框  */
+  .login-page .el-input__inner {
+    background: none;
+    width: 83% ;
+  }
+
+  /* 页面 */
+  .login-page{
+     background: url(./timg.jpg);
+     height: 100%;
+     width: 100%;
+     overflow: hidden;
+  }
+
+/* 登录按钮 */
+/* .el-form{ */
+  /* position: relative;
+  z-index: 9;
+  width: 25rem;
+  height: 30.47619048rem;
+  position: absolute;
+  top: 50%;
+  left: 75%;
+  transform: translate(-50%,-50%);
+  border-radius: 11px;
+  background: rgba(83,107,182,.46);
+  background: rgba(0,0,0,.2);
+  text-align: center; */
+/* } */
